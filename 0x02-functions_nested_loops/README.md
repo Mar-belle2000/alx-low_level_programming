@@ -1,1 +1,1 @@
-this project contains 0x02-functions_nested_loops
+This project contains 0x02-functions_nested_loops
