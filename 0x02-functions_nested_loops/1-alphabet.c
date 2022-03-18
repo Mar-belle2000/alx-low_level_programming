@@ -13,4 +13,4 @@ void print_alphabet(void)
 		_putchar(i);
 	_putchar('\n');
 }
-gcc 1-alphabet.c
+gcc 1-main.c 1-alphabet.c -o 1-alphabet
